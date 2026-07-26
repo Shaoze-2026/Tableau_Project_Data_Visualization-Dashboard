@@ -15,6 +15,7 @@ Tableau Public 2026.2
 [Link to Dashboard](https://public.tableau.com/app/profile/shaoze.yu/viz/Book1_17815246767970/Dashboard1)
 
 ### Key Findings
+
 - London demonstrates strongest positive change.
 - Southern cities demonstrate above-average growth.
 - Most of northern cities demonstrate negative or near-zero change.
@@ -26,3 +27,18 @@ Tableau Public 2026.2
 - Applied sorting, color encoding, and calculated fields to enhance insights.
 - Combined multiple chart types into clear, interactive dashboards.
 
+
+<img src="images/Task2.png" width="600" height="450">
+
+<img src="images/Task3.png" width="600" height="450">
+
+<img src="images/Task4.png" width="600" height="450">
+
+<img src="images/Task5.png" width="600" height="450">
+
+### Key Findings
+
+- Ska is the most energy music genre.
+- Indie is the most popularity music genre and Electronic is followed while jazz is the third.
+- The most energy doesn't means has most tempo. But it demonstrate high energy music usually has high tempo.
+- Instrumentalness and loudness show an opposite trend across genres.
