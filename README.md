@@ -42,3 +42,12 @@ Tableau Public 2026.2
 - Indie is the most popularity music genre and Electronic is followed while jazz is the third.
 - The most energy doesn't means has most tempo. But it demonstrate high energy music usually has high tempo.
 - Instrumentalness and loudness show an opposite trend across genres.
+
+## Using the Health data set conduct an analysis.
+
+- Analyse the Health dataset to identify meaningful trends and patterns.
+- Explore the data without a fixed scope, focusing on insights that could support organisational planning.
+- Highlight behaviours, demographic differences and emerging health issues.
+- Document key findings that may guide future support, resource allocation and targeted interventions.
+
+
