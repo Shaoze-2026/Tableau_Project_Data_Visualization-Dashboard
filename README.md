@@ -51,6 +51,6 @@ Tableau Public 2026.2
 - Document key findings that may guide future support, resource allocation and targeted interventions.
 
 
-<img src="images/Task6.png" width="600" height="450">
+
 
 [Link to Dashboard](https://public.tableau.com/app/profile/shaoze.yu/viz/Day2-Book2-Healthy/Dashboard1)
